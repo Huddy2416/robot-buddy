@@ -1,5 +1,7 @@
 # robot Friend
+
 ![Alt Text](https://ezgif.com/optimize/ezgif-24e9f8948cd25b.gif)
+
 ### The friend you never knew you needed
 A robot that can *wave*, *blink* and do *other stuff* good too. Hover over they/thems head and it will flip around in the air. Hover over its legs and it'll be tap dancin better than that one neice you only see at christmas. You can really get the party cranking with the lazer show by hovering over its body. You can even hover over its right arm, but it may start tweaking.
 
