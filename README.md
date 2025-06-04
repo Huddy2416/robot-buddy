@@ -1,4 +1,4 @@
-# robot Friend
+# Robot Friend
 
 ![Alt Text](https://ezgif.com/optimize/ezgif-24e9f8948cd25b.gif)
 
